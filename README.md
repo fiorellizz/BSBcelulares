@@ -1,2 +1,2 @@
 # BSBcelulares
- Projerto para pequena empresa.
+ Projeto para pequena empresa.
